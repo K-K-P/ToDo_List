@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "complete": false,
+      "id": 1,
+      "task": "Buy flowers"
+    },
+    {
+      "complete": false,
+      "id": 2,
+      "task": "Pick up shoes"
+    },
+    {
+      "complete": false,
+      "id": 3,
+      "task": "Call mom"
+    },
+    {
+      "complete": true,
+      "id": 4,
+      "task": "Buy tickets"
+    },
+    {
+      "complete": false,
+      "id": 5,
+      "task": "Przeczytac ksiazke"
+    },
+    {
+      "complete": false,
+      "id": 6,
+      "task": "Kupic owoce"
+    }
+  ]
+}
